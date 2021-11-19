@@ -37,7 +37,7 @@ src/ITGRecv/ITGRecv
 src/ITGManager/ITGManager
 
 # Folders
-bin/
+bin/*
 
 # Visual studio code
 .vscode/
